@@ -1,4 +1,4 @@
-.header{
+.header {
     height: 80px;
     background-color: #1C2B35;
     display: flex;
@@ -8,12 +8,17 @@
     padding-right: 100px;
 }
 
-nav.header a{
+nav.header a {
     text-decoration: none;
     color: white;
     margin-left: 30px;
 }
 
-nav.header a:hover{
+nav.header a:hover {
     color: orange;
+}
+
+.text-white {
+    color: white;
+    padding-left: 5px;
 }
